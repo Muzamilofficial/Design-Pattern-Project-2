@@ -1,0 +1,184 @@
+c:\users\saba\documents\visual studio 2010\Projects\HMS\HMS\bin\Debug\HMS.exe
+c:\users\saba\documents\visual studio 2010\Projects\HMS\HMS\bin\Debug\HMS.pdb
+c:\users\saba\documents\visual studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.AdminLogin.resources
+c:\users\saba\documents\visual studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.Properties.Resources.resources
+c:\users\saba\documents\visual studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.csproj.GenerateResource.Cache
+c:\users\saba\documents\visual studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.exe
+c:\users\saba\documents\visual studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.pdb
+c:\users\saba\documents\visual studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.DoctorLogin.resources
+c:\users\saba\documents\visual studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.PatientLogin.resources
+c:\users\saba\documents\visual studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.ReceptionistLogin.resources
+c:\users\saba\documents\visual studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.Admin.resources
+c:\users\saba\documents\visual studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.Doctor.resources
+c:\users\saba\documents\visual studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.Patient.resources
+c:\users\saba\documents\visual studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.Receptionist.resources
+c:\users\saba\documents\visual studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.HMS.resources
+C:\Users\Saba\documents\visual studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.csprojResolveAssemblyReference.cache
+C:\Users\Saba\documents\visual studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.Add_PatientOptions.resources
+C:\Users\Saba\documents\visual studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.AddDoctorOptions.resources
+C:\Users\Saba\documents\visual studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.AddReceptionistOptions.resources
+C:\Users\Saba\documents\visual studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.PayFeeOptions.resources
+C:\Users\Saba\documents\visual studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.ReceiveChargesOptions.resources
+C:\Users\Saba\documents\visual studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.AddHistoryOptions.resources
+C:\Users\Saba\documents\visual studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.PatientAppointmentOptions.resources
+C:\Users\Saba\documents\visual studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.AddMedicineOptions.resources
+C:\Users\Saba\documents\visual studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.AddTestOptions.resources
+C:\Users\sami\Downloads\HMS\HMS\bin\Debug\HMS.exe
+C:\Users\sami\Downloads\HMS\HMS\bin\Debug\HMS.pdb
+C:\Users\sami\Downloads\HMS\HMS\obj\x86\Debug\HMS.csprojAssemblyReference.cache
+C:\Users\sami\Downloads\HMS\HMS\obj\x86\Debug\HMS.Add_PatientOptions.resources
+C:\Users\sami\Downloads\HMS\HMS\obj\x86\Debug\HMS.AddDoctorOptions.resources
+C:\Users\sami\Downloads\HMS\HMS\obj\x86\Debug\HMS.AddHistoryOptions.resources
+C:\Users\sami\Downloads\HMS\HMS\obj\x86\Debug\HMS.AddMedicineOptions.resources
+C:\Users\sami\Downloads\HMS\HMS\obj\x86\Debug\HMS.AddReceptionistOptions.resources
+C:\Users\sami\Downloads\HMS\HMS\obj\x86\Debug\HMS.AddTestOptions.resources
+C:\Users\sami\Downloads\HMS\HMS\obj\x86\Debug\HMS.Admin.resources
+C:\Users\sami\Downloads\HMS\HMS\obj\x86\Debug\HMS.AdminLogin.resources
+C:\Users\sami\Downloads\HMS\HMS\obj\x86\Debug\HMS.Doctor.resources
+C:\Users\sami\Downloads\HMS\HMS\obj\x86\Debug\HMS.DoctorLogin.resources
+C:\Users\sami\Downloads\HMS\HMS\obj\x86\Debug\HMS.HMS.resources
+C:\Users\sami\Downloads\HMS\HMS\obj\x86\Debug\HMS.Patient.resources
+C:\Users\sami\Downloads\HMS\HMS\obj\x86\Debug\HMS.PatientAppointmentOptions.resources
+C:\Users\sami\Downloads\HMS\HMS\obj\x86\Debug\HMS.PatientLogin.resources
+C:\Users\sami\Downloads\HMS\HMS\obj\x86\Debug\HMS.PayFeeOptions.resources
+C:\Users\sami\Downloads\HMS\HMS\obj\x86\Debug\HMS.Properties.Resources.resources
+C:\Users\sami\Downloads\HMS\HMS\obj\x86\Debug\HMS.ReceiveChargesOptions.resources
+C:\Users\sami\Downloads\HMS\HMS\obj\x86\Debug\HMS.Receptionist.resources
+C:\Users\sami\Downloads\HMS\HMS\obj\x86\Debug\HMS.ReceptionistLogin.resources
+C:\Users\sami\Downloads\HMS\HMS\obj\x86\Debug\HMS.csproj.GenerateResource.cache
+C:\Users\sami\Downloads\HMS\HMS\obj\x86\Debug\HMS.csproj.CoreCompileInputs.cache
+C:\Users\sami\Downloads\HMS\HMS\obj\x86\Debug\HMS.exe
+C:\Users\sami\Downloads\HMS\HMS\obj\x86\Debug\HMS.pdb
+C:\Users\Saba\Downloads\HMS\HMS\obj\x86\Debug\HMS.exe
+C:\Users\Saba\Downloads\HMS\HMS\obj\x86\Debug\HMS.pdb
+C:\Users\Saba\Downloads\HMS\HMS\bin\Debug\HMS.exe
+C:\Users\Saba\Downloads\HMS\HMS\bin\Debug\HMS.pdb
+C:\Users\Saba\Downloads\HMS\HMS\obj\x86\Debug\HMS.csprojResolveAssemblyReference.cache
+C:\Users\Saba\Downloads\HMS\HMS\obj\x86\Debug\HMS.Add_PatientOptions.resources
+C:\Users\Saba\Downloads\HMS\HMS\obj\x86\Debug\HMS.AddDoctorOptions.resources
+C:\Users\Saba\Downloads\HMS\HMS\obj\x86\Debug\HMS.AddHistoryOptions.resources
+C:\Users\Saba\Downloads\HMS\HMS\obj\x86\Debug\HMS.AddMedicineOptions.resources
+C:\Users\Saba\Downloads\HMS\HMS\obj\x86\Debug\HMS.AddReceptionistOptions.resources
+C:\Users\Saba\Downloads\HMS\HMS\obj\x86\Debug\HMS.AddTestOptions.resources
+C:\Users\Saba\Downloads\HMS\HMS\obj\x86\Debug\HMS.Admin.resources
+C:\Users\Saba\Downloads\HMS\HMS\obj\x86\Debug\HMS.AdminLogin.resources
+C:\Users\Saba\Downloads\HMS\HMS\obj\x86\Debug\HMS.Doctor.resources
+C:\Users\Saba\Downloads\HMS\HMS\obj\x86\Debug\HMS.DoctorLogin.resources
+C:\Users\Saba\Downloads\HMS\HMS\obj\x86\Debug\HMS.HMS.resources
+C:\Users\Saba\Downloads\HMS\HMS\obj\x86\Debug\HMS.Patient.resources
+C:\Users\Saba\Downloads\HMS\HMS\obj\x86\Debug\HMS.PatientAppointmentOptions.resources
+C:\Users\Saba\Downloads\HMS\HMS\obj\x86\Debug\HMS.PatientLogin.resources
+C:\Users\Saba\Downloads\HMS\HMS\obj\x86\Debug\HMS.PayFeeOptions.resources
+C:\Users\Saba\Downloads\HMS\HMS\obj\x86\Debug\HMS.ReceiveChargesOptions.resources
+C:\Users\Saba\Downloads\HMS\HMS\obj\x86\Debug\HMS.Receptionist.resources
+C:\Users\Saba\Downloads\HMS\HMS\obj\x86\Debug\HMS.ReceptionistLogin.resources
+C:\Users\Saba\Downloads\HMS\HMS\obj\x86\Debug\HMS.csproj.GenerateResource.Cache
+C:\Users\Saba\Downloads\HMS\HMS\obj\x86\Debug\HMS.UpdateDoctorOptions.resources
+C:\Users\Saba\Downloads\HMS\HMS\obj\x86\Debug\HMS.Properties.Resources.resources
+C:\Users\sami\Desktop\HMS\HMS\bin\Debug\HMS.exe
+C:\Users\sami\Desktop\HMS\HMS\bin\Debug\HMS.pdb
+C:\Users\sami\Desktop\HMS\HMS\obj\x86\Debug\HMS.csprojAssemblyReference.cache
+C:\Users\sami\Desktop\HMS\HMS\obj\x86\Debug\HMS.Properties.Resources.resources
+C:\Users\sami\Desktop\HMS\HMS\obj\x86\Debug\HMS.Add_PatientOptions.resources
+C:\Users\sami\Desktop\HMS\HMS\obj\x86\Debug\HMS.AddDoctorOptions.resources
+C:\Users\sami\Desktop\HMS\HMS\obj\x86\Debug\HMS.AddHistoryOptions.resources
+C:\Users\sami\Desktop\HMS\HMS\obj\x86\Debug\HMS.AddMedicineOptions.resources
+C:\Users\sami\Desktop\HMS\HMS\obj\x86\Debug\HMS.AddReceptionistOptions.resources
+C:\Users\sami\Desktop\HMS\HMS\obj\x86\Debug\HMS.AddTestOptions.resources
+C:\Users\sami\Desktop\HMS\HMS\obj\x86\Debug\HMS.Admin.resources
+C:\Users\sami\Desktop\HMS\HMS\obj\x86\Debug\HMS.AdminLogin.resources
+C:\Users\sami\Desktop\HMS\HMS\obj\x86\Debug\HMS.Doctor.resources
+C:\Users\sami\Desktop\HMS\HMS\obj\x86\Debug\HMS.DoctorLogin.resources
+C:\Users\sami\Desktop\HMS\HMS\obj\x86\Debug\HMS.HMS.resources
+C:\Users\sami\Desktop\HMS\HMS\obj\x86\Debug\HMS.Patient.resources
+C:\Users\sami\Desktop\HMS\HMS\obj\x86\Debug\HMS.PatientAppointmentOptions.resources
+C:\Users\sami\Desktop\HMS\HMS\obj\x86\Debug\HMS.PatientLogin.resources
+C:\Users\sami\Desktop\HMS\HMS\obj\x86\Debug\HMS.PayFeeOptions.resources
+C:\Users\sami\Desktop\HMS\HMS\obj\x86\Debug\HMS.ReceiveChargesOptions.resources
+C:\Users\sami\Desktop\HMS\HMS\obj\x86\Debug\HMS.Receptionist.resources
+C:\Users\sami\Desktop\HMS\HMS\obj\x86\Debug\HMS.ReceptionistLogin.resources
+C:\Users\sami\Desktop\HMS\HMS\obj\x86\Debug\HMS.UpdateDoctorOptions.resources
+C:\Users\sami\Desktop\HMS\HMS\obj\x86\Debug\HMS.csproj.GenerateResource.cache
+C:\Users\sami\Desktop\HMS\HMS\obj\x86\Debug\HMS.csproj.CoreCompileInputs.cache
+C:\Users\sami\Desktop\HMS\HMS\obj\x86\Debug\HMS.exe
+C:\Users\sami\Desktop\HMS\HMS\obj\x86\Debug\HMS.pdb
+C:\Users\sami\Desktop\HMS\HMS\obj\x86\Debug\HMS.UpdateDoctor.resources
+C:\Users\sami\Desktop\HMS\HMS\obj\x86\Debug\HMS.CalculateSalary.resources
+C:\Users\Saba\Downloads\HMS\HMS\obj\x86\Debug\HMS.CalculateSalary.resources
+C:\Users\Saba\Downloads\HMS\HMS\obj\x86\Debug\HMS.UpdateDoctor.resources
+C:\Users\Saba\Desktop\HMS\HMS\obj\x86\Debug\HMS.exe
+C:\Users\Saba\Desktop\HMS\HMS\obj\x86\Debug\HMS.pdb
+C:\Users\Saba\Desktop\HMS\HMS\bin\Debug\HMS.exe
+C:\Users\Saba\Desktop\HMS\HMS\bin\Debug\HMS.pdb
+C:\Users\Saba\Desktop\HMS\HMS\obj\x86\Debug\HMS.csprojResolveAssemblyReference.cache
+C:\Users\Saba\Desktop\HMS\HMS\obj\x86\Debug\HMS.Properties.Resources.resources
+C:\Users\Saba\Desktop\HMS\HMS\obj\x86\Debug\HMS.Add_PatientOptions.resources
+C:\Users\Saba\Desktop\HMS\HMS\obj\x86\Debug\HMS.AddDoctorOptions.resources
+C:\Users\Saba\Desktop\HMS\HMS\obj\x86\Debug\HMS.AddHistoryOptions.resources
+C:\Users\Saba\Desktop\HMS\HMS\obj\x86\Debug\HMS.AddMedicineOptions.resources
+C:\Users\Saba\Desktop\HMS\HMS\obj\x86\Debug\HMS.AddReceptionistOptions.resources
+C:\Users\Saba\Desktop\HMS\HMS\obj\x86\Debug\HMS.AddTestOptions.resources
+C:\Users\Saba\Desktop\HMS\HMS\obj\x86\Debug\HMS.Admin.resources
+C:\Users\Saba\Desktop\HMS\HMS\obj\x86\Debug\HMS.AdminLogin.resources
+C:\Users\Saba\Desktop\HMS\HMS\obj\x86\Debug\HMS.CalculateSalary.resources
+C:\Users\Saba\Desktop\HMS\HMS\obj\x86\Debug\HMS.Doctor.resources
+C:\Users\Saba\Desktop\HMS\HMS\obj\x86\Debug\HMS.DoctorLogin.resources
+C:\Users\Saba\Desktop\HMS\HMS\obj\x86\Debug\HMS.HMS.resources
+C:\Users\Saba\Desktop\HMS\HMS\obj\x86\Debug\HMS.Patient.resources
+C:\Users\Saba\Desktop\HMS\HMS\obj\x86\Debug\HMS.PatientAppointmentOptions.resources
+C:\Users\Saba\Desktop\HMS\HMS\obj\x86\Debug\HMS.PatientLogin.resources
+C:\Users\Saba\Desktop\HMS\HMS\obj\x86\Debug\HMS.PayFeeOptions.resources
+C:\Users\Saba\Desktop\HMS\HMS\obj\x86\Debug\HMS.ReceiveChargesOptions.resources
+C:\Users\Saba\Desktop\HMS\HMS\obj\x86\Debug\HMS.Receptionist.resources
+C:\Users\Saba\Desktop\HMS\HMS\obj\x86\Debug\HMS.ReceptionistLogin.resources
+C:\Users\Saba\Desktop\HMS\HMS\obj\x86\Debug\HMS.UpdateDoctor.resources
+C:\Users\Saba\Desktop\HMS\HMS\obj\x86\Debug\HMS.UpdateDoctorOptions.resources
+C:\Users\Saba\Desktop\HMS\HMS\obj\x86\Debug\HMS.csproj.GenerateResource.Cache
+C:\Users\Saba\Desktop\HMS\HMS\obj\x86\Debug\HMS.Resources.Forms.LoginProxyForm.resources
+C:\Users\Saba\Desktop\HMS\HMS\obj\x86\Debug\HMS.Resources.Classes.HospitalManagementSystem.resources
+C:\Users\Saba\Desktop\HMS\HMS\obj\x86\Debug\HMS.Resources.Forms.GeneralWard.resources
+C:\Users\Saba\Desktop\HMS\HMS\obj\x86\Debug\HMS.Resources.Forms.GeneralWardOPD.resources
+C:\Users\Saba\Desktop\HMS\HMS\obj\x86\Debug\HMS.Resources.Forms.SurgeryWard.resources
+C:\Users\Saba\Desktop\HMS\HMS\obj\x86\Debug\HMS.Resources.Forms.AddSurgeryOPD.resources
+C:\Users\Saba\Desktop\HMS\HMS\obj\x86\Debug\HMS.Resources.Forms.AddSurgeryWard.resources
+C:\Users\Saba\Desktop\HMS\HMS\obj\x86\Debug\HMS.Resources.Forms.GeneralOPD.resources
+C:\Users\Saba\Desktop\HMS\HMS\obj\x86\Debug\HMS.Resources.Forms.SurgeryWardOPD.resources
+C:\Users\Saba\Desktop\HMS\HMS\obj\x86\Debug\HMS.Resources.Forms.CalculateRecSalary.resources
+C:\Users\HP\Desktop\HMS\HMS\obj\x86\Debug\HMS.exe
+C:\Users\HP\Desktop\HMS\HMS\obj\x86\Debug\HMS.pdb
+C:\Users\HP\Desktop\HMS\HMS\bin\Debug\HMS.exe
+C:\Users\HP\Desktop\HMS\HMS\bin\Debug\HMS.pdb
+C:\Users\HP\Desktop\HMS\HMS\obj\x86\Debug\HMS.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\HMS\HMS\obj\x86\Debug\HMS.Properties.Resources.resources
+C:\Users\HP\Desktop\HMS\HMS\obj\x86\Debug\HMS.Resources.Classes.HospitalManagementSystem.resources
+C:\Users\HP\Desktop\HMS\HMS\obj\x86\Debug\HMS.Add_PatientOptions.resources
+C:\Users\HP\Desktop\HMS\HMS\obj\x86\Debug\HMS.AddDoctorOptions.resources
+C:\Users\HP\Desktop\HMS\HMS\obj\x86\Debug\HMS.AddHistoryOptions.resources
+C:\Users\HP\Desktop\HMS\HMS\obj\x86\Debug\HMS.AddMedicineOptions.resources
+C:\Users\HP\Desktop\HMS\HMS\obj\x86\Debug\HMS.AddReceptionistOptions.resources
+C:\Users\HP\Desktop\HMS\HMS\obj\x86\Debug\HMS.Resources.Forms.AddSurgeryOPD.resources
+C:\Users\HP\Desktop\HMS\HMS\obj\x86\Debug\HMS.Resources.Forms.AddSurgeryWard.resources
+C:\Users\HP\Desktop\HMS\HMS\obj\x86\Debug\HMS.AddTestOptions.resources
+C:\Users\HP\Desktop\HMS\HMS\obj\x86\Debug\HMS.Admin.resources
+C:\Users\HP\Desktop\HMS\HMS\obj\x86\Debug\HMS.AdminLogin.resources
+C:\Users\HP\Desktop\HMS\HMS\obj\x86\Debug\HMS.Resources.Forms.CalculateRecSalary.resources
+C:\Users\HP\Desktop\HMS\HMS\obj\x86\Debug\HMS.CalculateSalary.resources
+C:\Users\HP\Desktop\HMS\HMS\obj\x86\Debug\HMS.Doctor.resources
+C:\Users\HP\Desktop\HMS\HMS\obj\x86\Debug\HMS.DoctorLogin.resources
+C:\Users\HP\Desktop\HMS\HMS\obj\x86\Debug\HMS.HMS.resources
+C:\Users\HP\Desktop\HMS\HMS\obj\x86\Debug\HMS.Resources.Forms.GeneralOPD.resources
+C:\Users\HP\Desktop\HMS\HMS\obj\x86\Debug\HMS.Resources.Forms.GeneralWard.resources
+C:\Users\HP\Desktop\HMS\HMS\obj\x86\Debug\HMS.Resources.Forms.GeneralWardOPD.resources
+C:\Users\HP\Desktop\HMS\HMS\obj\x86\Debug\HMS.Resources.Forms.LoginProxyForm.resources
+C:\Users\HP\Desktop\HMS\HMS\obj\x86\Debug\HMS.Patient.resources
+C:\Users\HP\Desktop\HMS\HMS\obj\x86\Debug\HMS.PatientAppointmentOptions.resources
+C:\Users\HP\Desktop\HMS\HMS\obj\x86\Debug\HMS.PatientLogin.resources
+C:\Users\HP\Desktop\HMS\HMS\obj\x86\Debug\HMS.PayFeeOptions.resources
+C:\Users\HP\Desktop\HMS\HMS\obj\x86\Debug\HMS.ReceiveChargesOptions.resources
+C:\Users\HP\Desktop\HMS\HMS\obj\x86\Debug\HMS.Receptionist.resources
+C:\Users\HP\Desktop\HMS\HMS\obj\x86\Debug\HMS.ReceptionistLogin.resources
+C:\Users\HP\Desktop\HMS\HMS\obj\x86\Debug\HMS.Resources.Forms.SurgeryWard.resources
+C:\Users\HP\Desktop\HMS\HMS\obj\x86\Debug\HMS.UpdateDoctor.resources
+C:\Users\HP\Desktop\HMS\HMS\obj\x86\Debug\HMS.UpdateDoctorOptions.resources
+C:\Users\HP\Desktop\HMS\HMS\obj\x86\Debug\HMS.Resources.Forms.SurgeryWardOPD.resources
+C:\Users\HP\Desktop\HMS\HMS\obj\x86\Debug\HMS.csproj.GenerateResource.Cache
